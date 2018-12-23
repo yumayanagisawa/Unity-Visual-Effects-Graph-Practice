@@ -1,5 +1,6 @@
 # Unity-Visual-Effects-Graph
-![Screenshot](Screenshot A.png)
+
+![Screenshot](Screenshot A.jpg)
 ![Screenshot](Screenshot B.png)
 I created a data sculpture while I was visiting Jerusalem to take part in an artist residency at HaMiffal هميفعل המפעל. "Demographics of Israel: Data Sculpture" visualises Israeli population based on its four main religious groups (Jewish, Muslim, Christian, and Druze) over the past seven decades.
 
