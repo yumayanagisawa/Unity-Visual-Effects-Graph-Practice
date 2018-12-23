@@ -6,5 +6,5 @@ There are four particle systems in the scene. Each particle system spawns partic
 So it's not like an accurate data visualization. I just used the data to create a piece.
 
 
-![](Screenshot A.jpg)
-![](Screenshot B.png)
+![](Screenshot_A.jpg)
+![](Screenshot_B.png)
